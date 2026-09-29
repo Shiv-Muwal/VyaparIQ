@@ -8,7 +8,7 @@
 
 <br/>
 
-<h1>Frappe Books</h1>
+<h1>VyaparIQ</h1>
 
 **Modern Accounting Made Simple**
 
